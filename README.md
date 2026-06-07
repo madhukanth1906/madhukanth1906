@@ -40,7 +40,7 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C6FF)](https://github.com/madhukanth1906)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C6FF)](mailto:madhu9940984501@gmail.com)
 
 </div>
@@ -115,7 +115,7 @@
 ## <div align="center">🏆 Achievements</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhukanth1906&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madhukanth1906&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=4" />
 </div>
 
 ---
