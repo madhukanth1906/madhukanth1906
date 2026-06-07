@@ -89,8 +89,8 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=madhukanth1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=ffffff&rank_icon=github" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukanth1906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" />
+  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhukanth1906&theme=tokyonight" />
+  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhukanth1906&theme=tokyonight" />
 </div>
 
 <br>
