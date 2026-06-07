@@ -28,7 +28,7 @@ I am open to collaborating on open-source repositories and looking for professio
 
 | Feature | Detail |
 | :--- | :--- |
-| **Operating System** | Windows 11 |
+| **Operating System** | Windows 11 / Linux |
 | **Preferred Environment** | VS Code / Cursor |
 | **Core Interests** | Deep Learning, Software Architecture, UI/UX Design |
 
