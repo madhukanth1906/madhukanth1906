@@ -118,9 +118,32 @@
   <img src="https://github-profile-trophy.vercel.app/?username=madhukanth1906&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=4" />
 </div>
 
+<div align="center">
+
+### 🎯 Highlight Achievements
+
+🏆 **Winner - Code With Curious 2.0** (Competitive coding and problem solving)  
+🥈 **Top 2 - Front End Frenzy 2.0** (UI/UX and frontend development challenge)  
+📜 **Oracle Cloud Infrastructure 2025 Certified**  
+📜 **Python Essentials 1 and 2 Certified**  
+📜 **Introduction to IoT Certified**  
+
+</div>
+
 ---
 
 ## <div align="center">🚀 Featured Projects</div>
+
+<div align="center">
+
+### 🌟 Portfolio Project Highlights
+
+| Project | Status | What It Does |
+|---|---|---|
+| **Agri Care** | 🚀 Ongoing | AI-powered agriculture platform using soil sensors, crop data, and weather data for pest/disease detection, irrigation management, multilingual support, and market-price updates. |
+| **Aura Sink** | 🚀 Ongoing | Real-time audio synchronization system using UDP with device clock sync, playback drift correction, and buffering logic to reduce multi-device latency. |
+
+</div>
 
 <div align="center">
   <a href="https://github.com/madhukanth1906/Agri-care">
