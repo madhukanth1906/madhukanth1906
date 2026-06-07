@@ -139,8 +139,8 @@
 | Project | Status | What It Does |
 |---|---|---|
 | **Agri Care** | 🚀 Ongoing | AI-powered agriculture platform using soil sensors, crop data, and weather data for pest/disease detection, irrigation management, multilingual support, and market-price updates. |
-| **Student App** | 🛠️ In Development | A comprehensive educational management application built to streamline student profiles, academic performance tracking, and institution-wide collaboration.<br>📁 *Workspace Path:* `G:\projects\group\student_app` |
-| **FlexPay App** | 💳 In Development | A secure, high-performance digital payments application designed for seamless transactions, quick checkouts, and robust payment processing.<br>📁 *Workspace Path:* `G:\projects\group\digital_payments\flexpay_app` |
+| **Student App** | ✅ Completed | A comprehensive educational management application built to streamline student profiles, academic performance tracking, and institution-wide collaboration. |
+| **FlexPay App** | 💳 In Development | A secure, high-performance digital payments application designed for seamless transactions, quick checkouts, and robust payment processing. |
 
 </div>
 
