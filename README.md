@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020024,20:090979,45:0066ff,70:00c6ff,100:7df9ff&text=MADHUKANTH%20M&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020024,20:090979,45:0066ff,70:00c6ff,100:7df9ff&text=MADHUKANTH%20M&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Madhukanth+M+%F0%9F%91%8B;Building+Futuristic+AI+%26+Data+Science+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+Python+Development;Turning+Data+into+Intelligence+%E2%9A%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=960&lines=Hey+there!+I'm+Madhukanth+M+%F0%9F%91%8B;AI+%26+Data+Science+Student+%7C+Java+Developer;UI%2FUX+Designer+Building+Human-Centered+Products;Machine+Learning+%7C+Deep+Learning+%7C+Python+Development;Turning+Ideas+into+Real+World+Impact+%E2%9A%A1" alt="Typing Animation" />
 </div>
 
 <br>
@@ -23,9 +23,12 @@
 <div align="center">
 
 🎓 AI & Data Science Student from Namakkal, Tamilnadu, India  
+💻 Java Developer focused on clean, scalable applications  
+🎨 UI/UX Designer who loves human-centered, intuitive experiences  
 🧠 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science  
 🐍 Focused on Python Development and intelligent automation  
 🚀 Current Focus: Building AI Projects and Learning Advanced Machine Learning  
+🤝 I enjoy building useful products for real people, not just demos  
 🌍 Open to collaboration in impactful open-source and AI-driven projects  
 
 </div>
@@ -38,8 +41,7 @@
   
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C6FF)](https://github.com/madhukanth1906)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=00C6FF)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C6FF)](mailto:yourmail@example.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C6FF)](mailto:madhu9940984501@gmail.com)
 
 </div>
 
@@ -89,7 +91,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhukanth1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=ffffff&rank_icon=github" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhukanth1906&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=madhukanth1906&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
 </div>
 
 <div align="center">
@@ -105,7 +107,11 @@
 ## <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
