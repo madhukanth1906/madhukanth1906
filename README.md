@@ -32,6 +32,21 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 
 </div>
 
+<br>
+
+### <div align="center">⚡ Quick Snapshot</div>
+
+<div align="center">
+
+| Feature | Info |
+| :--- | :--- |
+| 💻 **Operating System** | Windows 11 |
+| 🛠️ **Preferred Editor** | VS Code / Cursor |
+| ☕ **Fuel** | Coffee & Synthwave Music |
+| 🧠 **Current Passion** | Deep Learning & Interactive UX |
+
+</div>
+
 ---
 
 ## <div align="center">🌐 Connect With Me</div>
@@ -50,53 +65,37 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 
 <div align="center">
 
-### 🧩 Programming Languages  
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00C6FF)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=00C6FF)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00C6FF)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=00C6FF)
-
-### 🛠️ Frameworks & Libraries  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=00C6FF)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=00C6FF)
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=00C6FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=00C6FF)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00C6FF)
-
-### 🤖 AI/ML Tools  
-![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=00C6FF)
-![Keras](https://img.shields.io/badge/Keras-111827?style=for-the-badge&logo=keras&logoColor=D00000)
-
-### ☁️ Cloud & Dev Tools  
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=00C6FF)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=00C6FF)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00C6FF)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00C6FF)
+| Category | Technologies |
+| :--- | :--- |
+| **🧩 Languages** | ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00C6FF) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=00C6FF) ![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=00C6FF) ![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=00C6FF) |
+| **🛠️ Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=00C6FF) ![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=00C6FF) |
+| **🗄️ Databases** | ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=00C6FF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=00C6FF) ![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=00C6FF) |
+| **🤖 AI/ML Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626) ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8) ![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=plotly&logoColor=00C6FF) ![Keras](https://img.shields.io/badge/Keras-111827?style=flat-square&logo=keras&logoColor=D00000) |
+| **☁️ Cloud & Dev** | ![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111827?style=flat-square&logo=googlecloud&logoColor=00C6FF) ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=00C6FF) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00C6FF) ![VS Code](https://img.shields.io/badge/VSCode-111827?style=flat-square&logo=visualstudiocode&logoColor=00C6FF) |
 
 </div>
 
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
+## <div align="center">📊 GitHub Dashboard</div>
 
 <div align="center">
-  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhukanth1906&theme=tokyonight" />
-  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhukanth1906&theme=tokyonight" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhukanth1906&custom_title=Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00A3FF&point=FFFFFF&area=true&hide_border=true" />
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhukanth1906&theme=tokyonight" height="185em" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhukanth1906&theme=tokyonight" height="185em" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukanth1906&custom_title=Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00A3FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
