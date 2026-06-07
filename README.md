@@ -1,98 +1,67 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020024,20:090979,45:0066ff,70:00c6ff,100:7df9ff&text=MADHUKANTH%20M&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20and%20Data%20Science%20Student%20%7C%20Java%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" />
-</div>
+# Madhukanth M
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=960&lines=Hey+there!+I'm+Madhukanth+M;AI+and+Data+Science+Student+%7C+Java+Developer;UI%2FUX+Designer+Building+Human-Centered+Products;Machine+Learning+%7C+Deep+Learning+%7C+Python+Development;Turning+Ideas+into+Real+World+Impact" alt="Typing Animation" />
-</div>
+**AI & Data Science Student | Java Developer | UI/UX Designer**
+
+Namakkal, Tamil Nadu, India • madhu9940984501@gmail.com • [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/madhukanth1906)
 
 <br>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=madhukanth1906&label=VISITORS&color=00c6ff&style=for-the-badge)](https://github.com/madhukanth1906)
-  [![GitHub followers](https://img.shields.io/github/followers/madhukanth1906?logo=github&style=for-the-badge&color=00aaff&labelColor=0d1117)](https://github.com/madhukanth1906?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/madhukanth1906?logo=github&style=for-the-badge&color=00ddff&labelColor=0d1117)](https://github.com/madhukanth1906?tab=repositories)
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=madhukanth1906&label=Profile%20Views&color=58a6ff&style=flat-square)](https://github.com/madhukanth1906)
+[![GitHub followers](https://img.shields.io/github/followers/madhukanth1906?logo=github&style=flat-square&color=58a6ff&labelColor=24292e)](https://github.com/madhukanth1906?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/madhukanth1906?logo=github&style=flat-square&color=58a6ff&labelColor=24292e)](https://github.com/madhukanth1906?tab=repositories)
 
 ---
 
-## <div align="center">About Me</div>
+## About Me
 
-<div align="center">
+I am an AI & Data Science student based in Namakkal, Tamil Nadu, India, with a deep interest in software engineering, machine learning, and user-centric product development. I focus on bridging the gap between back-end architecture and front-end user experience:
 
-**Hey there! I'm Madhukanth.** 
+- **Software Engineering:** Proficient in building clean, scalable applications in **Java** and implementing intelligent automation workflows in **Python**.
+- **User Interface Design:** Focus on **UI/UX Design** to ensure complex tools and models are intuitive and easy for real users to navigate.
+- **AI/ML Focus:** Interested in training deep learning models, studying advanced neural network architectures, and developing practical, high-impact products.
 
-I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuine love for solving real problems through technology. I enjoy bridging the gap between back-end engineering and design:
-- **Developer at Heart:** I write scalable applications in **Java** and build intelligent systems using **Python**.
-- **User-Focused:** I also focus on **UI/UX Design**, because a powerful model is only as good as the interface that lets people use it easily.
-- **Core Goal:** I'm passionate about training deep learning models, studying advanced ML architectures, and building products that help real people in their everyday lives.
-- **Let's Connect:** I am always open to collaborating on impactful open-source and AI-driven projects!
-
-</div>
+I am open to collaborating on open-source repositories and looking for professional growth opportunities in the AI, ML, and software engineering space.
 
 <br>
 
-### <div align="center">Quick Snapshot</div>
+### Quick Snapshot
 
-<div align="center">
-
-| Feature | Info |
+| Feature | Detail |
 | :--- | :--- |
 | **Operating System** | Windows 11 |
-| **Preferred Editor** | VS Code / Cursor |
-| **Fuel** | Coffee & Synthwave Music |
-| **Current Passion** | Deep Learning & Interactive UX |
-
-</div>
+| **Preferred Environment** | VS Code / Cursor |
+| **Core Interests** | Deep Learning, Software Architecture, UI/UX Design |
 
 ---
 
-## <div align="center">Connect With Me</div>
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C6FF)](https://github.com/madhukanth1906)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C6FF)](mailto:madhu9940984501@gmail.com)
-
-</div>
-
----
-
-## <div align="center">Tech Stack</div>
-
-<div align="center">
+## Technical Skills
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00C6FF) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=00C6FF) ![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=00C6FF) ![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=00C6FF) |
-| **Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=00C6FF) ![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=00C6FF) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=00C6FF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=00C6FF) ![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=00C6FF) |
-| **AI/ML Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626) ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8) ![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=plotly&logoColor=00C6FF) ![Keras](https://img.shields.io/badge/Keras-111827?style=flat-square&logo=keras&logoColor=D00000) |
-| **Cloud & Dev** | ![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111827?style=flat-square&logo=googlecloud&logoColor=00C6FF) ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=00C6FF) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00C6FF) ![VS Code](https://img.shields.io/badge/VSCode-111827?style=flat-square&logo=visualstudiocode&logoColor=00C6FF) |
-
-</div>
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=58a6ff) ![Java](https://img.shields.io/badge/Java-24292e?style=flat-square&logo=openjdk&logoColor=58a6ff) ![C](https://img.shields.io/badge/C-24292e?style=flat-square&logo=c&logoColor=58a6ff) ![SQL](https://img.shields.io/badge/SQL-24292e?style=flat-square&logo=postgresql&logoColor=58a6ff) |
+| **Frameworks & Libraries** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-24292e?style=flat-square&logo=tensorflow&logoColor=58a6ff) ![PyTorch](https://img.shields.io/badge/PyTorch-24292e?style=flat-square&logo=pytorch&logoColor=58a6ff) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-24292e?style=flat-square&logo=scikitlearn&logoColor=58a6ff) ![Pandas](https://img.shields.io/badge/Pandas-24292e?style=flat-square&logo=pandas&logoColor=58a6ff) ![NumPy](https://img.shields.io/badge/NumPy-24292e?style=flat-square&logo=numpy&logoColor=58a6ff) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-24292e?style=flat-square&logo=mysql&logoColor=58a6ff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292e?style=flat-square&logo=postgresql&logoColor=58a6ff) ![SQLite](https://img.shields.io/badge/SQLite-24292e?style=flat-square&logo=sqlite&logoColor=58a6ff) |
+| **AI/ML Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-24292e?style=flat-square&logo=jupyter&logoColor=58a6ff) ![OpenCV](https://img.shields.io/badge/OpenCV-24292e?style=flat-square&logo=opencv&logoColor=58a6ff) ![Matplotlib](https://img.shields.io/badge/Matplotlib-24292e?style=flat-square&logo=plotly&logoColor=58a6ff) ![Keras](https://img.shields.io/badge/Keras-24292e?style=flat-square&logo=keras&logoColor=58a6ff) |
+| **Cloud & Developer Tools** | ![AWS](https://img.shields.io/badge/AWS-24292e?style=flat-square&logo=amazonaws&logoColor=58a6ff) ![Google Cloud](https://img.shields.io/badge/GCP-24292e?style=flat-square&logo=googlecloud&logoColor=58a6ff) ![Docker](https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=58a6ff) ![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=58a6ff) ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=58a6ff) ![VS Code](https://img.shields.io/badge/VS_Code-24292e?style=flat-square&logo=visualstudiocode&logoColor=58a6ff) |
 
 ---
 
-## <div align="center">GitHub Dashboard</div>
+## GitHub Dashboard
 
-<div align="center">
+<div align="left">
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhukanth1906&theme=tokyonight" height="185em" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhukanth1906&theme=github_dark" height="150px" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhukanth1906&theme=tokyonight" height="185em" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhukanth1906&theme=github_dark" height="150px" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="2" align="left">
         <br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukanth1906&custom_title=Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00A3FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukanth1906&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
@@ -100,37 +69,17 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 
 ---
 
-## <div align="center">Git Contributions</div>
+## Git Contributions
 
-<div align="center">
-  <img alt="Git Contribution Graph" src="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake-dark.svg" />
+<div align="left">
+  <img alt="Git Contribution Graph" src="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
 
-## <div align="center">Achievements</div>
+## Featured Projects
 
-<div align="center">
-
-### Highlight Achievements
-
-- **Winner - Code With Curious 2.0** (Competitive coding and problem solving)  
-- **Top 2 - Front End Frenzy 2.0** (UI/UX and frontend development challenge)  
-- **Oracle Cloud Infrastructure 2025 Certified**  
-- **Python Essentials 1 and 2 Certified**  
-- **Introduction to IoT Certified**  
-
-</div>
-
----
-
-## <div align="center">Featured Projects</div>
-
-<div align="center">
-
-### Portfolio Project Highlights
-
-| Project | Status | What It Does |
+| Project | Status | Description |
 |---|---|---|
 | **[Agri Care](https://github.com/madhukanth1906/Agri-care)** | In Development | AI-powered agriculture platform using soil sensors, crop data, and weather data for pest/disease detection, irrigation management, multilingual support, and market-price updates. |
 | **[Agricare Models](https://github.com/madhukanth1906/agricare-models)** | In Development | Machine Learning and Deep Learning models tailored for agricultural classification, disease detection, and yield prediction. |
@@ -139,13 +88,19 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 | **[Musico Bot](https://github.com/madhukanth1906/musico-bot)** | Completed | A feature-rich music bot designed for high-quality audio streaming, playlist queue management, and interactive playback controls. |
 | **[YouTube Telegram Bot](https://github.com/madhukanth1906/youtube-telegram-bot)** | Completed | An automated bot allowing users to search, download, and extract audio/video streams from YouTube links directly within the chat interface. |
 
-</div>
+---
+
+## Achievements
+
+- **Winner**, Code With Curious 2.0 (Competitive coding and problem solving)  
+- **Top 2**, Front End Frenzy 2.0 (UI/UX and frontend development challenge)  
+- **Certified**, Oracle Cloud Infrastructure 2025  
+- **Certified**, Python Essentials 1 and 2  
+- **Certified**, Introduction to IoT  
 
 ---
 
-## <div align="center">Current Learning</div>
-
-<div align="center">
+## Professional Development & Focus
 
 - Advanced Machine Learning Algorithms  
 - Deep Learning Architectures for Real-World AI  
@@ -153,22 +108,10 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 - Large Language Models and Generative AI  
 - Scalable Cloud-based AI Solutions  
 
-</div>
-
 ---
 
-## <div align="center">Fun Facts</div>
+## Interests & Trivia
 
-<div align="center">
-
-- Late-night coding + futuristic synthwave music = my absolute peak productivity mode.  
-- I believe the best code is the code that makes someone's day a little bit easier.  
-- I love the thrill of experimenting with new models, breaking them, and fixing them.  
-
-</div>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020024,30:090979,70:00c6ff,100:7df9ff" />
-</div>
+- Focus on late-night coding sessions paired with futuristic synthwave tracks.  
+- Believer in writing clean, human-centered code to simplify daily operations.  
+- Passionate about experimenting with new AI models and debugging complex architectures.  
