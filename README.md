@@ -22,14 +22,14 @@
 
 <div align="center">
 
-🎓 AI & Data Science Student from Namakkal, Tamilnadu, India  
-💻 Java Developer focused on clean, scalable applications  
-🎨 UI/UX Designer who loves human-centered, intuitive experiences  
-🧠 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science  
-🐍 Focused on Python Development and intelligent automation  
-🚀 Current Focus: Building AI Projects and Learning Advanced Machine Learning  
-🤝 I enjoy building useful products for real people, not just demos  
-🌍 Open to collaboration in impactful open-source and AI-driven projects  
+🎓 **AI & Data Science Student** from Namakkal, Tamilnadu, India  
+💻 **Java Developer** focused on clean, scalable, high-performance applications  
+🎨 **UI/UX Designer** who loves human-centered, highly intuitive user experiences  
+🧠 **Passionate** about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science  
+🐍 **Python Developer** specializing in intelligent automation and data modeling  
+🚀 **Current Focus:** Building AI Projects and exploring Advanced Machine Learning  
+🤝 Passionate about building functional, high-impact products for real people, not just demos  
+🌍 **Collaboration:** Open to collaborating on impactful open-source and AI-driven projects  
 
 </div>
 
@@ -90,13 +90,11 @@
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhukanth1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=ffffff&rank_icon=github" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=madhukanth1906&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=madhukanth1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=ffffff&rank_icon=github" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukanth1906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukanth1906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" />
-</div>
+<br>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhukanth1906&custom_title=Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00A3FF&point=FFFFFF&area=true&hide_border=true" />
@@ -104,10 +102,10 @@
 
 ---
 
-## <div align="center">🐍 Contribution Snake</div>
+## <div align="center">💻 Git Contributions</div>
 
 <div align="center">
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Git Contribution Graph" src="https://raw.githubusercontent.com/madhukanth1906/madhukanth1906/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -141,7 +139,8 @@
 | Project | Status | What It Does |
 |---|---|---|
 | **Agri Care** | 🚀 Ongoing | AI-powered agriculture platform using soil sensors, crop data, and weather data for pest/disease detection, irrigation management, multilingual support, and market-price updates. |
-| **Aura Sink** | 🚀 Ongoing | Real-time audio synchronization system using UDP with device clock sync, playback drift correction, and buffering logic to reduce multi-device latency. |
+| **Student App** | 🛠️ In Development | A comprehensive educational management application built to streamline student profiles, academic performance tracking, and institution-wide collaboration.<br>📁 *Workspace Path:* `G:\projects\group\student_app` |
+| **FlexPay App** | 💳 In Development | A secure, high-performance digital payments application designed for seamless transactions, quick checkouts, and robust payment processing.<br>📁 *Workspace Path:* `G:\projects\group\digital_payments\flexpay_app` |
 
 </div>
 
