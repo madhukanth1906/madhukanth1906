@@ -2,7 +2,7 @@
 
 **AI & Data Science Student | Java Developer | UI/UX Designer**
 
-Namakkal, Tamil Nadu, India • madhu9940984501@gmail.com • [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/madhukanth1906)
+Namakkal, Tamil Nadu, India • madhukanthm.ad24@bitsathy.ac.in • [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/madhukanth1906)
 
 <br>
 
