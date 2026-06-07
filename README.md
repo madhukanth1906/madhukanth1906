@@ -112,10 +112,6 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 ## <div align="center">🏆 Achievements</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhukanth1906&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=4" />
-</div>
-
-<div align="center">
 
 ### 🎯 Highlight Achievements
 
@@ -137,25 +133,13 @@ I'm an AI & Data Science student from Namakkal, Tamil Nadu, India, with a genuin
 
 | Project | Status | What It Does |
 |---|---|---|
-| **Agri Care** | 🛠️ In Development | AI-powered agriculture platform using soil sensors, crop data, and weather data for pest/disease detection, irrigation management, multilingual support, and market-price updates. |
-| **Student App** | ✅ Completed | A comprehensive educational management application built to streamline student profiles, academic performance tracking, and institution-wide collaboration. |
-| **FlexPay App** | 💳 In Development | A secure, high-performance digital payments application designed for seamless transactions, quick checkouts, and robust payment processing. |
+| **[Agri Care](https://github.com/madhukanth1906/Agri-care)** | 🛠️ In Development | AI-powered agriculture platform using soil sensors, crop data, and weather data for pest/disease detection, irrigation management, multilingual support, and market-price updates. |
+| **[Agricare Models](https://github.com/madhukanth1906/agricare-models)** | 🤖 In Development | Machine Learning and Deep Learning models tailored for agricultural classification, disease detection, and yield prediction. |
+| **[Student App](https://github.com/madhukanth1906/madhukanth1906)** | ✅ Completed | A comprehensive educational management application built to streamline student profiles, academic performance tracking, and institution-wide collaboration. |
+| **[FlexPay App](https://github.com/madhukanth1906/madhukanth1906)** | 💳 In Development | A secure, high-performance digital payments application designed for seamless transactions, quick checkouts, and robust payment processing. |
+| **[Musico Bot](https://github.com/madhukanth1906/musico-bot)** | 🎵 Completed | A feature-rich music bot designed for high-quality audio streaming, playlist queue management, and interactive playback controls. |
+| **[YouTube Telegram Bot](https://github.com/madhukanth1906/youtube-telegram-bot)** | 🤖 Completed | An automated bot allowing users to search, download, and extract audio/video streams from YouTube links directly within the chat interface. |
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/madhukanth1906/Agri-care">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhukanth1906&repo=Agri-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/madhukanth1906/agricare-models">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhukanth1906&repo=agricare-models&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/madhukanth1906/musico-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhukanth1906&repo=musico-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/madhukanth1906/youtube-telegram-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhukanth1906&repo=youtube-telegram-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" />
-  </a>
 </div>
 
 ---
